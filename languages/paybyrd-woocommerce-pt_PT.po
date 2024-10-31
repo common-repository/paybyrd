@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paybyrd Payment Plugin 2.19.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt_PT\n"
+
+msgid "Paybyrd"
+msgstr "Paybyrd"
+
+msgid "Paybyrd Gateway"
+msgstr "Paybyrd Gateway"
+
+msgid "Enable/Disable"
+msgstr "Ligar / Desligar"
+
+msgid "Enable Paybyrd Gateway"
+msgstr "Ligar Gateway Paybyrd"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "This controls the title which the user sees during checkout"
+msgstr "Isto altera o nome que utilizador vê durante o checkout"
+
+msgid "Paybyrd Payment"
+msgstr "Pagamento Paybyrd"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "Payment method description that the customer will see on your checkout"
+msgstr "Descrição de meio de pagamento que o cliente vê durante o checkout"
+
+msgid "Payment Information"
+msgstr "Informação de pagamento"
+
+msgid "Test Mode"
+msgstr "Modo de testes"
+
+msgid "Enable Test Mode"
+msgstr "Ligar modo de testes"
+
+msgid "Place the payment gateway in test mode using test API keys"
+msgstr "Colocar a gateway em modo de testes utilizando APIKEY de testes"
+
+msgid "Test Private Key"
+msgstr "Chave privada de testes"
+
+msgid "Live Private Key"
+msgstr "Chave privada de produção"
+
+msgid "The form for payment will be loaded soon..."
+msgstr "O formulário de pagamento será carregado em breve..."
+
+msgid "Payment successfully paid"
+msgstr "Pagamento bem sucedido"
+
+msgid "There was a problem with your payment"
+msgstr "Pagamento não sucedido"
+
+msgid "Payment pending..."
+msgstr "Pagamento pendente"
+
+msgid "Pay With Paybyrd"
+msgstr "Aceita pagamentos com a Paybyrd"
+
+msgid "Test Approved"
+msgstr "Teste Aprovado"
